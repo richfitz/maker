@@ -1,0 +1,12 @@
+Package: maker
+Title: (DEPRECATED) Make-like build management
+Version: 0.1
+Authors@R: "Rich FitzJohn <rich.fitzjohn@gmail.com> [aut, cre]"
+Description: Please use remake (https://github.com/richfitz/remake) instead
+Depends: 
+    R (>= 3.0.0)
+License: CC0
+LazyData: true
+Imports: 
+    remake
+Suggests: testthat
